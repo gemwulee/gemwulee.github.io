@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-31T15:52:43.717Z</updated>
+  <updated>2016-03-31T16:00:55.195Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>林夕 · 有梦</title>
-    <link href="http://yoursite.com/2014/12/22/%E6%9E%97%E5%A4%95%E6%9C%89%E6%A2%A6/"/>
-    <id>http://yoursite.com/2014/12/22/林夕有梦/</id>
-    <published>2014-12-22T04:39:04.000Z</published>
-    <updated>2016-03-31T15:52:43.717Z</updated>
+    <link href="http://yoursite.com/2015/12/22/%E6%9E%97%E5%A4%95%E6%9C%89%E6%A2%A6/"/>
+    <id>http://yoursite.com/2015/12/22/林夕有梦/</id>
+    <published>2015-12-22T04:39:04.000Z</published>
+    <updated>2016-03-31T16:00:55.195Z</updated>
     
     <content type="html"></content>
     
@@ -30,8 +30,6 @@
     
       <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
     
-    
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
     
       <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
     
