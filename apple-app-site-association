@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "8S4EA5BM93.com.picc.etong",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "8S4EA5BM93.com.picc.nmmsapp",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
